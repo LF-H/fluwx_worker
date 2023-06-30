@@ -1,11 +1,9 @@
 name: fluwx_worker
 description: 企业微信插件
 version: 0.0.1
-author:
-homepage:
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.19.2 <3.0.0"
   flutter: ">=2.1.0"
 
 dependencies:
